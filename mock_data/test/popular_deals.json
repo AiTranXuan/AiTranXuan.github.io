@@ -1,0 +1,44 @@
+[
+    {
+      "id": "bd7acbea",
+      "title": "The NBA Collection",
+      "price": "250",
+      "image":
+        "/assets/images/deals/fig1.png"
+    },
+    {
+        "id": "bd7acbea",
+        "title": "Desert Sand",
+        "price": "120",
+        "image":
+          "/assets/images/deals/fig2.png"
+      },
+      {
+        "id": "bd7acbea",
+        "title": "Crystal Blue",
+        "price": "100",
+        "image":
+          "/assets/images/deals/fig3.png"
+      },
+      {
+        "id": "bd7acbea",
+        "title": "The NBA 2016",
+        "price": "400",
+        "image":
+          "/assets/images/deals/fig4.png"
+      },
+      {
+        "id": "bd7acbea",
+        "title": "The NBA 2017",
+        "price": "10",
+        "image":
+          "/assets/images/deals/fig5.png"
+      },
+      {
+        "id": "bd7acbea",
+        "title": "The NBA 2018",
+        "price": "440",
+        "image":
+          "/assets/images/deals/fig6.png"
+      }
+]

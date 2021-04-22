@@ -1,0 +1,23 @@
+[
+    {
+      "id": "bd7acbea",
+      "title": "Beats By Solo Dr.Dre Wireless",
+      "price": "250",
+      "image":
+      "/assets/images/deals/fig1.png"
+    },
+    {
+        "id": "bd7acbea",
+        "title": "The best of sound 2022",
+        "price": "120",
+        "image":
+        "/assets/images/deals/fig2.png"
+      },
+      {
+        "id": "bd7acbea",
+        "title": "Desert Sand",
+        "price": "100",
+        "image":
+        "/assets/images/deals/fig3.png"
+      }
+]

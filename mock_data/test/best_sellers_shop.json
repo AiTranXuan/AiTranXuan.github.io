@@ -1,0 +1,32 @@
+[
+    {
+      "id": "bd7acbea",
+      "title": "Liva’s Shop",
+      "image":
+        "/assets/images/users/u1.jpeg"
+    },
+    {
+        "id": "bd7acbea",
+        "title": "Eric Books",
+        "image":
+          "/assets/images/users/u2.jpeg"
+      },
+      {
+        "id": "bd7acbea",
+        "title": "Shop Center",
+        "image":
+          "/assets/images/users/u3.jpeg"
+      },
+      {
+        "id": "bd7acbea",
+        "title": "MI MI stores",
+        "image":
+          "/assets/images/users/u4.jpeg"
+      },
+      {
+        "id": "bd7acbea",
+        "title": "BNM Robe",
+        "image":
+          "/assets/images/users/u5.jpeg"
+      }
+]
