@@ -1,0 +1,107 @@
+[
+  {
+    "id": "bd7acbea-c1b1-46c2-aed5-3ad53abb28ba",
+    "title": "A",
+    "data": [
+      {
+        "id": "bd7acbea-c1b1-46c2-aed5-3ad53abb28ba",
+        "name": "A An",
+        "phone": "0999999999",
+        "type": {
+          "id": "phone",
+          "name": "Điện thoại"
+        },
+        "avatar": "https://www.gettyimages.pt/gi-resources/images/Homepage/Hero/PT/PT_hero_42_153645159.jpg"
+      },
+      {
+        "id": "3ac68afc-c605-48d3-a4f8-fbd91aa97f63",
+        "name": "A Uyên",
+        "phone": "0999999989",
+        "type": {
+          "id": "phone",
+          "name": "Điện thoại"
+        },
+        "avatar": null
+      },
+      {
+        "id": "58694a0f-3da1-471f-bd96-145571e29d72",
+        "name": "Anh Quân",
+        "phone": "0999999979",
+        "type": {
+          "id": "phone",
+          "name": "Điện thoại"
+        },
+        "avatar": null
+      }
+    ]
+  },
+  {
+    "id": "bd7acbea-c1b1-46c2-aed5-3ad53abb28ba",
+    "title": "B",
+    "data": [
+      {
+        "id": "bd7acbea-c1b1-46c2-aed5-3ad53abb28ba",
+        "name": "B An",
+        "phone": "0999999999",
+        "type": {
+          "id": "phone",
+          "name": "Điện thoại"
+        },
+        "avatar": "https://www.gettyimages.pt/gi-resources/images/Homepage/Hero/PT/PT_hero_42_153645159.jpg"
+      },
+      {
+        "id": "3ac68afc-c605-48d3-a4f8-fbd91aa97f63",
+        "name": "Bá Uyên",
+        "phone": "0999999989",
+        "type": {
+          "id": "phone",
+          "name": "Điện thoại"
+        },
+        "avatar": null
+      }
+    ]
+  },
+  {
+    "id": "bd7acbea-c1b1-46c2-aed5-3ad53abb28ba",
+    "title": "D",
+    "data": [
+      {
+        "id": "bd7acbea-c1b1-46c2-aed5-3ad53abb28ba",
+        "name": "Dì Ánh",
+        "phone": "0999999999",
+        "type": {
+          "id": "phone",
+          "name": "Điện thoại"
+        },
+        "avatar": "https://www.gettyimages.pt/gi-resources/images/Homepage/Hero/PT/PT_hero_42_153645159.jpg"
+      },
+      {
+        "id": "3ac68afc-c605-48d3-a4f8-fbd91aa97f63",
+        "name": "Dì Quyên",
+        "phone": "0999999989",
+        "type": {
+          "id": "phone",
+          "name": "Điện thoại"
+        },
+        "avatar": null
+      }
+    ]
+  },
+  {
+    "id": "bd7acbea-c1b1-46c2-aed5-3ad53abb28ba",
+    "title": "H",
+    "data": [
+      {
+        "id": "bd7acbea-c1b1-46c2-aed5-3ad53abb28ba",
+        "name": "Hai Lúa",
+        "phone": "0999999999",
+        "type": {
+          "id": "phone",
+          "name": "Điện thoại"
+        },
+        "avatar": "https://www.gettyimages.pt/gi-resources/images/Homepage/Hero/PT/PT_hero_42_153645159.jpg"
+      }
+    ]
+  }
+
+]
